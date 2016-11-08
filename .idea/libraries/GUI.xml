@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="GUI">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/CDIO18_del2/GUI.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/CDIO18_del2/GUI.jar!/doc" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/CDIO18_del2/GUI.jar!/" />
+    </SOURCES>
+  </library>
+</component>
